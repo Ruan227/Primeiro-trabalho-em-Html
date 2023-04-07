@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fredoka+One&display=swap');
+
+
+
+.TITULO
+{
+    font-family: 'Fredoka One', cursive;
+}
+.ANOES
+{
+    font-family: 'Bangers', cursive;
+}
+
+
+#cabeçalho
+{
+    height: 150px;
+    background-color:  rgb(121, 121, 121);
+    align-items: center;
+    margin-top: 5px;
+    list-style-type: none;
+}
+
+#menu 
+{
+    height:1360px;
+    width: 300px;
+    background-color: whitesmoke;
+    float: left;
+    margin-top: 10px;
+}
+
+#menu {
+    text-decoration:none;
+    color: black;
+}
+#conteudo
+{
+    height:500px;
+    width: 100%;
+    background-color: white;
+    margin-top: 10px;
+}
+#ps
+{
+    height: 150px;
+    background-color:  rgba(16, 16, 16, .5);
+    margin-top: 10px;
+}
+.Logo img
+{
+    max-height: 30%;
+    max-width: 10%;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    font-family: Arial;
+}

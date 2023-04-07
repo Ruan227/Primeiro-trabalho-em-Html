@@ -1,0 +1,39 @@
+INSTRUÇÕES:
+HTML É a página inicial comesse por ela
+
+
+ACONCELHO EXPLORAR BEM A PAGINA POS TEM MUITOS MEME E PIADAS ESCONDIDOS
+
+
+Untitled-1: IGUAL AO LINK DOS ANÕES BOMBADOS ESQUECI DE RENOMEAR  
+
+
+-A página deve conter um menu, com as informações obrigatórias de logo, e também mais 5 páginas de links, que devem conter: (Aqui você deve utilizar no mínimo uma fonte importada);
+1 página sobre a empresa (SE ENCONTRA NA PAGUINA INICIAL)
+	OK
+-Deve conter no mínimo 3 parágrafos e 2 imagens, 1 vídeo (ENCONTRA-SE NA PAIGINA SOBRE NÓS)
+	OK
+
+1 página com uma mostra de 10 produtos da empresa (SE ENCONTRA NA PAGUINA INICIAL)
+	OK
+-Acima da tabela uma amostra de cada categoria E 1 página com uma tabela de preços, informações do produto e estoque existente na loja (Tabela de 3 colunas com 10 linhas no mínimo - 10 produtos);
+(SE ENCONTRA NA PAGUINA INICIAL)
+	OK
+-1 página com 5 listas de 3 tipos diferentes, onde você pode aplicar qualquer tipo de conteúdo atrelado a estas listas (no mínimo 3 linhas em listas);
+(LISTAS SEPARADAS NAS CATEGORIAS DE CADA ANÃO [mas a especificação exata de 5 listas e 3 tipos deferentes está em bombados]
+	OK
+-1 página com um formulário estruturado que você pode definir qualquer contexto (Obrigatório colocar o botão de Enviar);
+(ENCONTRA-SE NO SOBRE NOS LA EM BAIXO)
+	OK
+-Adicionar algum contexto de Java script em sua página. Se ainda não viu o conteúdo, procure aplicar utilizando o material disponibilizado a todos.
+(ENCONTRA ASSIM QUE ABRE A PAGINA)
+	OK
+-Sua página deve ter no mínimo: Duas alterações de fontes importadas
+(USEI A AREAL E NOS TITULOS)
+
+-Duas alterações de tamanho de fonte
+(AO LONGO DO SITE EXISTE VARIAS ALTERAÇOES)
+	OK
+-Três alterações de cores de fonte ou de página.
+(ENCONTRASE NA PAGINA INICIAL [NO css.css estão as alterações de cores no layout])
+	OK
